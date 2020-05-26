@@ -12,7 +12,7 @@
 windows（需curl）  
 linux
 
-#### 使用到的API
+### 使用到的API
 
 ##### 获取dnspod账号token
 curl -X POST 'https:api.dnspod.com/Auth' -d 'login_email=<你的账号>&login_password=<你的密码>&format=json'
